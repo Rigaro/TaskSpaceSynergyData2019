@@ -1,5 +1,5 @@
-# Task-space Synergy Experiment Data (2019)
-Task-space synergy comparison data-set for the experiments performed in 2019.
+# Task-space Synergy Experiment Data (2020)
+Task-space synergy comparison data-set for the experiments performed in 2019-2020.
 
 Directory:
 - Processed: Processed data from MATLAB in ".mat" format. Organised by session and subject.
