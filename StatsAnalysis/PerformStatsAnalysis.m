@@ -1,0 +1,5 @@
+CalculateDifferencePerIteration
+PlotIndividualTaskPerformance
+LinearRegression
+GenerateTables
+manova_test
